@@ -1,0 +1,7 @@
+let(user, "Bob')
+let(number, add(400, add(10, 10)))
+fun(hello, println("Hello, ', user, " ', number))
+
+hello()
+println("Here is the weather in ', http("https://wttr.in/', "Berlin', "?format=4'))
+println("Star on Github')
